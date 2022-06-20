@@ -1,4 +1,5 @@
-## Netlify Deployed URL -> https://xboard-by-rahul.netlify.app
+# [Open](https://rahulchaudhary2244.github.io/News-Feed/)
+## Deployed URL -> https://rahulchaudhary2244.github.io/News-Feed/
 
 # News-Feed
 
